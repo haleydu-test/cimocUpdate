@@ -8,6 +8,6 @@
   "VersionName": "1.7.50（1234）",
   "ApkMd5": "b517c0b408da3ecd9d4c0a718c1507c4",  
   "DownloadUrl": "https://api.pingping6.com/tools/lanzou/?down&url=https://haleydu.lanzouq.com/iJpjy01gysje",
-  "ModifyContent":"\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号：HDCIMOC\r\n\r\n1.增加漫画源\r\n2.修复部分失效漫画源\r\n3.增加海外模式\r\n4.增加好漫6漫画源\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n为了后台自动修复失效漫画源重新架构了软件。可能造成部分手机或系统闪退的问题，可以在公众号上反馈，收到反馈后会尽快适配对应的机型\r\n\r\n开屏广告和搜索页广告每天显示两次，想更加支持作者的可以去设置开启广告,不喜欢开屏广告的可以去设置页关闭开屏广告，或者点击主界面右上角的看广告支持作者\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
+  "ModifyContent":"\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号：HDCIMOC\r\n\r\n1.增加漫画源\r\n2.修复部分失效漫画源\r\n3.增加海外模式\r\n4.增加好漫6漫画源\r\n5.增加恢复默认设置功能\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n为了后台自动修复失效漫画源重新架构了软件。可能造成部分手机或系统闪退的问题，可以在公众号上反馈，收到反馈后会尽快适配对应的机型\r\n\r\n开屏广告和搜索页广告每天显示两次，想更加支持作者的可以去设置开启广告,不喜欢开屏广告的可以去设置页关闭开屏广告，或者点击主界面右上角的看广告支持作者\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
 
 }
