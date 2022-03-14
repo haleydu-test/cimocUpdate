@@ -1,0 +1,13 @@
+{
+    "shutdown":false, //"89c19b348e612efcb01662021067d64eod"，容易闪退id测试文件
+    "producer":0, 
+    "percentage":0.90, 
+    "umids": [
+        "a7e916b63dcefad3fc0953c69b8ce4d2ia",//崩溃
+        "d95212bc3b6c9abf7cf9a3215488f5dd",//闪退
+        "aie31db80f783fa917881151b31fb24ddb",
+        "39b48bbc665eb35ee47e5f243a2fa5afod",
+        "ai72f41be4eb57ca0d1671e7e39e64c7ba",
+        ""
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "Code": 0, //0代表请求成功，非0代表失败
+  "Msg": "", //请求出错的信息
+  "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
+  "VersionCode": 1206,
+  "VersionName": "1.7.43（1206）",
+  "UploadTime": "2022-2-15 11:00:41",
+ "ModifyContent":"\r\n该版本不支持安卓5.0以下的手机\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号：HDCIMOC\r\n\r\n如果下载到本地的漫画解析错误的的，可以去设置里面设置一下软件的存储路径，提供了自定义路径和默认路径可以选择。下载漫画失效的原因可能是没有默认路径导致的\r\n\r\n\r\n1.增加高清大图模式\r\n2.阅读界面增加到了6种快捷阅读模式切换\r\n3.旋转模式增加锁定模式\r\n4.增加了英文/繁体字界面\r\n5.加入深色模式\r\n6.色彩选项可以进行颜色过滤调和、开启反色模式、开启黑白模式\r\n7.增加了对windows系统的支持\r\n8.修复部分失效漫画源\r\n\r\n为了后台自动修复失效漫画源重新架构了软件。可能造成部分手机或系统闪退的问题，可以在公众号上反馈，收到反馈后会尽快适配对应的机型\r\n\r\n开屏广告和搜索页广告每天显示两次，想更加支持作者的可以去设置开启广告，或者点击主界面右上角的看广告支持作者\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu",
+  "DownloadUrl": "https://api.pingping6.com/tools/lanzou/?down&url=https://haleydu.lanzouq.com/ikwRo003iysj",
+  "ApkSize": 22456,
+  "ApkMd5": "319d0c168bb1a1f72df1823b1bffed55"  //应用apk的md5值没有的话，就无法保证apk是否完整，每次都会重新下载。框架默认使用的是md5加密。
+}

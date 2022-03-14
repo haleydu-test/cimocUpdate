@@ -1,0 +1,12 @@
+{
+  "Code": 0, //0代表请求成功，非0代表失败
+  "Msg": "", //请求出错的信息
+  "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
+  "VersionCode": 1014,
+  "VersionName": "1.7.19（1014）",
+  "UploadTime": "2021-09-7 20:28:41",
+  "ModifyContent":"支持安卓4.1以上的版本，安卓5.0以上的系统会升级两次解锁更高效的搜索功能\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号：HDCIMOC\r\n\r\n如果下载到本地的漫画解析错误的的，可以去设置里面设置一下软件的存储路径，提供了自定义路径和默认路径可以选择。下载漫画失效的原因可能是没有默认路径导致的\r\n1.修复拷贝漫画可能下载失败的问题\r\n2.修复禁漫天堂下载部分漫画失败的问题\r\n3.设置界面增加了几个系统默认的存储路径可以选择和自定义路径\r\n4.修复动漫屋观看乱序的问题\r\n5.设置项增加漫画加载成功不弹出提示框的选择项\r\n6.设置项增加右上漫画信息移动到底部的选择项，解决部分刘海屏遮挡的问题\r\n\r\n为了后台自动修复失效漫画源重新架构了软件。可能造成部分手机或系统闪退的问题，可以在公众号上反馈，收到反馈后会尽快适配对应的机型\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu",
+  "DownloadUrl": "https://gitee.com/Haleydu/update/attach_files/824766/download/Cimoc_1.7.19.apk",
+  "ApkSize": 6375,
+  "ApkMd5": "9be6d6c83e4d19da15c0f4fc7931ae38"  //应用apk的md5值没有的话，就无法保证apk是否完整，每次都会重新下载。框架默认使用的是md5加密。
+}

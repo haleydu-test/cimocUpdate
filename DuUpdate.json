@@ -1,0 +1,12 @@
+{
+  "Code": 0, //0代表请求成功，非0代表失败
+  "Msg": "", //请求出错的信息
+  "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
+  "VersionCode": 970,
+  "VersionName": "1.7.13（971）",
+  "UploadTime": "2021-08-15 02:28:41",
+  "ModifyContent":"无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号：HDCIMOC\r\n\r\n部分国内用户可能无法直接升级，国外服务器国内直接下载更新，难免存在问题\r\n*该版本兼容了安卓4.x版本\r\n*修复部分手机打开漫画界面瞬间会闪退的问题\r\n*修复下载后的漫画在下载界面点击无法观看的问题\r\n\r\n1.增加包子漫画\r\n2.增加漫画猫\r\n3.增加七夕漫画\r\n4.增加独漫画\r\n5.增加忆漫画\r\n6.修复荣耀部分中低端手机没有赋予文件访问权限可能闪退的问题。\r\n7.增加一个自动清理图片缓存的选项\r\n\r\n由于目前软件整体架构已经重新修改过了，为了后台自动修复失效漫画源重新架构了，因为原来的Cimoc由于特征码的问题只要编译出来就会被报误毒，所以进行了软件重构。可能造成部分手机和系统闪退的问题，可以在公众号上反馈，收到反馈后会尽快适配对应的机型\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu",
+  "DownloadUrl": "https://github.com/Haleydu/update/releases/download/1.7.13/Cimoc_1.7.13.apk",
+  "ApkSize": 6544,
+  "ApkMd5": "7fff0f4721fc5c19188bc6bf7be0ec51"  //应用apk的md5值没有的话，就无法保证apk是否完整，每次都会重新下载。框架默认使用的是md5加密。
+}
