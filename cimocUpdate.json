@@ -2,12 +2,12 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "UploadTime": "2022-3-12 23:00:41",
+  "UploadTime": "2022-3-14 23:00:41",
   "ApkSize": 26584,
-  "VersionCode": 1333,
-  "VersionName": "1.7.49（1231）",
-  "ApkMd5": "8f10c98d8c917a0f910d4370060e2184",  
-  "DownloadUrl": "https://api.pingping6.com/tools/lanzou/?down&url=https://haleydu.lanzouq.com/iRhQS01dtspc",
-  "ModifyContent":"********\r\n1.7.49版本，修复海外用户无法使用的问题，修复安卓5.0-安卓7.0系统和以及部分小米、oppo、vivo机型软件容易崩溃的问题；优化了图片高清算法，修复高清大图模式和封面高清容易卡顿和闪退的问题，优化了高清加载的速度跟正常加载的速度一致\r\n********\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号：HDCIMOC\r\n\r\n1.增加米推漫画源\r\n2.增加封面高清显示的开关\r\n3.增加章节自动更新功能（检测到漫画更新的时候自动更新漫画章节，不用再点开漫画后等待几秒再加载最新章节）\r\n4.修复部分漫画源排序乱序的问题\r\n5.增加获取文件全部权限功能取消每次打开应用提示的开关。可以不用授权全部文件读取权限了。关闭前，提前做好数据备份，以免找不数据。\r\n6.修复扑飞漫画\r\n6.增加好漫6漫画源\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n为了后台自动修复失效漫画源重新架构了软件。可能造成部分手机或系统闪退的问题，可以在公众号上反馈，收到反馈后会尽快适配对应的机型\r\n\r\n开屏广告和搜索页广告每天显示两次，想更加支持作者的可以去设置开启广告,不喜欢开屏广告的可以去设置页关闭开屏广告，或者点击主界面右上角的看广告支持作者\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
+  "VersionCode": 1234,
+  "VersionName": "1.7.50（1234）",
+  "ApkMd5": "b517c0b408da3ecd9d4c0a718c1507c4",  
+  "DownloadUrl": "https://api.pingping6.com/tools/lanzou/?down&url=https://haleydu.lanzouq.com/iJpjy01gysje",
+  "ModifyContent":"\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号：HDCIMOC\r\n\r\n1.增加漫画源\r\n2.修复部分失效漫画源\r\n3.增加海外模式\r\n4.增加好漫6漫画源\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n为了后台自动修复失效漫画源重新架构了软件。可能造成部分手机或系统闪退的问题，可以在公众号上反馈，收到反馈后会尽快适配对应的机型\r\n\r\n开屏广告和搜索页广告每天显示两次，想更加支持作者的可以去设置开启广告,不喜欢开屏广告的可以去设置页关闭开屏广告，或者点击主界面右上角的看广告支持作者\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
 
 }
