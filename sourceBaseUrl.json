@@ -672,5 +672,6 @@
       "parseImageList2":"div.uk-alert > p",
 
       "parseCategoryPath":"/classify?type=%s&region=%s&state=%s&filter=%s"
-    }
+    },
+    "backup_update":"https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json"
 }
