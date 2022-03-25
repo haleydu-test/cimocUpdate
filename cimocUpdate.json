@@ -4,7 +4,7 @@
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "UploadTime": "2022-3-16 12:00:41",
   "ApkSize": 26520,
-  "VersionCode": 1240,
+  "VersionCode": 1242,
   "VersionName": "1.7.50（1242）",
   "ApkMd5": "cc2aa9a14182634652a687e8260a5086",  
   "DownloadUrl": "https://api.pingping6.com/tools/lanzou/?down&url=https://haleydu.lanzouq.com/iBoi901mkojc",
