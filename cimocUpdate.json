@@ -2,12 +2,12 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "UploadTime": "2022-3-27 23:00:41",
-  "ApkSize": 26536,
+  "UploadTime": "2022-3-28 19:00:41",
+  "ApkSize": 30936,
   "VersionCode": 1258,
-  "VersionName": "1.7.53（1261）",
-  "ApkMd5": "20c4bdb7116346592c2b8c0549a9f39a",  
-  "DownloadUrl": "https://api.pingping6.com/tools/lanzou/?down&url=https://haleydu.lanzouq.com/iQukz0275d6j",
+  "VersionName": "1.7.53（1262）",
+  "ApkMd5": "5b1c381fe6bde1125fbc7c95226a3400",  
+  "DownloadUrl": "https://api.pingping6.com/tools/lanzou/?down&url=https://haleydu.lanzouq.com/iEbrg0277o5g",
   "ModifyContent":"****************\r\n1.修复服务器图源崩溃的问题\r\n2.增加新新漫画\r\n3.增加漫画8图源\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号：HDCIMOC\r\n\r\n1.增加漫画源\r\n2.修复部分失效漫画源\r\n3.增加cdn，提高搜索成功率\r\n4.增加好漫6漫画源\r\n5.增加恢复默认设置功能\r\n6.修复部分漫画源检查无法检查更新的问题\r\n7.修复首次加载章节重复的问题\r\n8.修复部分漫画只显示500页的问题\r\n9.修复备份崩溃问题\r\n10.修复图源导入失败的问题\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n为了后台自动修复失效漫画源重新架构了软件。可能造成部分手机或系统闪退的问题，可以在公众号上反馈，收到反馈后会尽快适配对应的机型\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl-json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
 
 }
