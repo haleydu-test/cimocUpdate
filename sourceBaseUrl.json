@@ -1,4 +1,30 @@
 {
+    "YEMANMH":{
+      "baseUrl":"https://mhkami.com",
+      "serverUrl":"",
+      "search":"/search?searchkey=%s",
+      "searchInfoList":"#js_comicSortList > li",
+      "searchInfoCid":"a",
+      "searchInfoTitle":"p.title",
+      "searchInfoCover":"img",
+      "searchInfoAuthor":"",
+      "searchInfoUpdate":"span.chapter",
+
+      "parseInfoTitle":"h1.name",
+      "parseInfoCover":"div#detail",
+      "parseInfoIntro":"p#js_desc_content",
+      "parseInfoAuthor":"span.author",
+      "parseInfoUpdate":"span.update_time",
+      "parseInfoStatus":"span.origin",
+
+      "parseChapterList1":"ul#js_chapters > li > a",
+      "parseChapterPath":"",
+      "parseChapterTitle":"",
+
+      "parseImageList":"#imgsec img.calwh",
+
+      "parseCategoryPath":""
+    },
     "XINXINMH":{
       "baseUrl":"https://so.77mh.in",
       "serverUrl":"",
