@@ -410,14 +410,14 @@
 
 	"HHXXEE":"",
 	
-	"HOTMANGA":"https://m.manga2020.com",
+	"HOTMANGA":"",
 	"HOTMANGASERVER":"https://mapi.hotmangasg.com",
 
 	"IKANMAN":"https://www.manhuagui.com",
 	"IKANMANTW":"https://tw.manhuagui.com",
 	"IKANMANSERVER":"https://i.hamreus.com",
 
-	"JMTT":"https://jmcomic.mobi",
+	"JMTT":"",
 	
 	"MANGABZ":"http://www.mangabz.com",
 	
@@ -519,7 +519,7 @@
 	"HHAAZZ":"http://www.hhimm.com",
 	"HHAAZZ_SW":"44123.com|hhcool.com|hhimm.com",
 
-    "JOYHENTAI":"https://zh.joyhentai.fun/",
+    "JOYHENTAI":"",
 
     "BAOZIMH":{
       "baseUrl":"https://cn.baozimh.com",
