@@ -485,7 +485,7 @@
 	"MIGU":"http://www.migudm.cn",
 	
 	"OHMANHUA":"https://www.cocomanga.com",
-    "OHMANHUARATELIMIT":2000,
+    "OHMANHUARATELIMIT":2500,
 	
 	"PUFEI":"http://m.pufei.cc",
 	"PUFEISERVER":"http://res.img.shengda0769.com/",
