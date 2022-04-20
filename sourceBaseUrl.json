@@ -61,7 +61,7 @@
     "HAOMAN8":{
       "baseUrl":"https://www.haoman8.com",
       "serverUrl":"",
-      "search":"/search/%s/%d/",
+      "search":"/index.php/search?key=%s&page=%d",
       "searchInfoList":"ul.comic-sort > li.item.comic-item",
       "searchInfoCid":"a",
       "searchInfoTitle":"p.title",
@@ -87,7 +87,7 @@
     },
 
     "HAOMAN6":{
-      "baseUrl":"https://www.haoman6.cc",
+      "baseUrl":"https://www.haoman6.com",
       "serverUrl":"",
       "search":"/search/%s/%d/",
       "searchInfoList":"div.search-result > div.comic-list-item",
