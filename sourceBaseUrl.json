@@ -87,9 +87,9 @@
     },
 
     "HAOMAN6":{
-      "baseUrl":"https://www.haoman6.com",
+      "baseUrl":"https://www.haoman6.cc",
       "serverUrl":"",
-      "search":"/search/%s/%d/",
+      "search":"/index.php/search?key=%s&page=%d",
       "searchInfoList":"div.search-result > div.comic-list-item",
       "searchInfoCid":"p.comic-name > a",
       "searchInfoTitle":"p.comic-name > a",
