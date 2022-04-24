@@ -9,9 +9,10 @@
     "configuration_ad_minutes_time":240,
     "configuration_template_ad_time":240,
     "configuration_insert_ad_minutes_time":100,
+    "configuration_set_inter_ad":0.90, 
     "configuration_manually_insert_ad_minutes_time":10,
     "configuration_set_ad_mode":0,
-	"configuration_words":"大家好，欢迎大家关注Cimoc官方微信公众号\r\n实时获取最新软件，获取图源地址\r\n公众号:HDCIMOC",
+	"configuration_words":"**********\r\n接用户举报，“禁漫天堂”、“热辣漫画”、“joyhentai” 漫画源涉嫌违反中国地区法律，现已及时断开对应网站的图源预置和搜索功能，后续版本也不再提供违反对应国家法律的漫画源，请用户们不要再推荐这类漫画源 \r\n**********\r\n\r\n\r\n大家好，欢迎大家关注Cimoc官方微信公众号\r\n实时获取最新软件，获取图源地址\r\n公众号:HDCIMOC",
 	"configuration_open":false,
     "Disclaimer":"",
     "Introduction":""
