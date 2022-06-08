@@ -542,8 +542,8 @@
       "parseInfoUpdate":"div.comics-detail__info > div.supporting-text.mt-2 > div:eq(1) > span > em",
       "parseInfoStatus":"div.tag-list > span:eq(0)",
 
-      "parseImageList":".comic-contain li.chapter-img > img",
-      "parseImageUrl":"data-src",
+      "parseImageList":".comic-contain > amp-img",
+      "parseImageUrl":"src",
 
       "parseChapterList1":"div#chapter-items > div",
       "parseChapterList2":"div#chapters_other_list > div",
