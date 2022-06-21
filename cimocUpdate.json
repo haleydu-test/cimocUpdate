@@ -7,7 +7,7 @@
   "VersionCode": 1349,
   "VersionName": "1.7.75（1353）",
   "ApkMd5": "52e01a0aa963c62dac80685dd394a843",
-  "DownloadUrl": "https://gitee.com/Haleydu/update/attach_files/1102787/download/Cimoc_1.7.75_1353.apk",
+  "DownloadUrl": "https://api.pingping6.com/tools/lanzou/?down&url=https://haleydu.lanzouq.com/i60r406qd96b",
   "ModifyContent":"****************\r\n1.软件的搜索引擎增加屏蔽效果。在软件检索第三方漫画资源网站后呈现搜索结果时，根据漫画名的相关性直接屏蔽第三方网站可能存在快看垄断的独家漫画资源。\r\n2.修复一些已知bug\r\n3.搜索结果和详情界面显示第三方网站的URl\r\n4.修复拷贝漫画解析失败的问题\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl-json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
 
 }
