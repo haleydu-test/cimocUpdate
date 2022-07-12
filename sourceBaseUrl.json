@@ -81,7 +81,7 @@
       "parseChapterPath":"",
       "parseChapterTitle":"",
 
-      "parseImageList":"ul.comic-list li.comic-page > img",
+      "parseImageList":"ul.comic-list li.comic-page img",
 
       "parseCategoryPath":"/category/%s/page/%d"
     },
