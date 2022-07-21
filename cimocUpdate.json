@@ -4,7 +4,7 @@
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "UploadTime": "2022-7-21 15:30:41",
   "ApkSize": 31477,
-  "VersionCode": 13621,
+  "VersionCode": 1362,
   "VersionName": "1.7.78（1362）",
   "ApkMd5": "721bf831ab16a0c3da685ed03aff1886",
   "DownloadUrl": "https://gitee.com/Haleydu/update/attach_files/1133442/download/Cimoc_1.7.78_1362.apk",
