@@ -2,12 +2,12 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "UploadTime": "2022-7-20 02:30:41",
-  "ApkSize": 31489,
-  "VersionCode": 1360,
-  "VersionName": "1.7.77（1360）",
-  "ApkMd5": "9c96e85bbd26d546d88cbf4093d25dbc",
-  "DownloadUrl": "https://gitee.com/Haleydu/update/attach_files/1131601/download/Cimoc_1.7.77_1360.apk",
-  "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n1.修复包子漫画部分章节页面缺少的问题\r\n2.搜索结果和详情界面显示第三方网站的URl\r\n3.修复部分自定义漫画源解析信息异常的问题\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl-json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
+  "UploadTime": "2022-7-21 15:30:41",
+  "ApkSize": 31477,
+  "VersionCode": 13621,
+  "VersionName": "1.7.78（1362）",
+  "ApkMd5": "721bf831ab16a0c3da685ed03aff1886",
+  "DownloadUrl": "https://gitee.com/Haleydu/update/attach_files/1133442/download/Cimoc_1.7.78_1362.apk",
+  "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n1.修复包子漫画部分章节页面缺少的问题\r\n2.搜索结果和详情界面显示第三方网站的URl\r\n3.修复部分自定义漫画源解析信息异常以及不检查更新的问题\r\n4.修复好漫8\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl-json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
 
 }
