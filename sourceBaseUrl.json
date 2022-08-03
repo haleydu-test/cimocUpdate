@@ -82,7 +82,7 @@
       "parseChapterTitle":"",
 
       "parseImageList":"ul.comic-list li.comic-page img",
-
+      "parseImageUrl":"data-echo",
       "parseCategoryPath":"/category/%s/page/%d"
     },
 
