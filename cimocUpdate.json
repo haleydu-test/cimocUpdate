@@ -3,11 +3,11 @@
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "UploadTime": "2022-8-3 13:30:41",
-  "ApkSize": 31471,
-  "VersionCode": 1367,
-  "VersionName": "1.7.79（1367）",
-  "ApkMd5": "ee051a3601ea3c1fc3b1ceb3ce87295d",
-  "DownloadUrl": "https://gitee.com/Haleydu/update/attach_files/1145870/download/Cimoc_1.7.79_1367.apk",
+  "ApkSize": 31594,
+  "VersionCode": 1369,
+  "VersionName": "1.7.79（1369）",
+  "ApkMd5": "3e834033fb89d4342736fb96a350b553",
+  "DownloadUrl": "https://gitee.com/Haleydu/update/releases/download/1367/Cimoc_1.7.79_1369.apk",
   "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n1.修复好漫8\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl-json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
 
 }
