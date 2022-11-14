@@ -547,6 +547,7 @@
 
       "parseChapterList1":"div#chapter-items > div",
       "parseChapterList2":"div#chapters_other_list > div",
+      "parseChapterList3":"div.comics-chapters",
       "parseChapterPath":"a",
       "parseChapterTitle":"span",
       "parseCategoryPath":"/classify?type=%s&region=%s&state=%s&filter=%s"
