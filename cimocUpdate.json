@@ -5,9 +5,9 @@
   "UploadTime": "2022-11-20 12:35:41",
   "ApkSize": 32583,
   "VersionCode": 1392,
-  "VersionName": "1.7.82（1392）",
-  "ApkMd5": "2861da61c047ff3014851c36f7f1924f",
-  "DownloadUrl": "https://gitee.com/Haleydu/update/releases/download/1389/Cimoc_1.7.82_1392.apk",
+  "VersionName": "1.7.83（1393）",
+  "ApkMd5": "00dabfc191a912f4de56d3974f1a8c30",
+  "DownloadUrl": "https://gitee.com/Haleydu/update/releases/download/1.7.83/Cimoc_1.7.83_1393.apk",
   "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n1.修复包子漫画解析后章节排序异常的问题\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitee.com/Haleydu/update/raw/master/sourceBaseUrl-json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
 
 }
