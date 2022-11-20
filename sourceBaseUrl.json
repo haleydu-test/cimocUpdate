@@ -545,9 +545,9 @@
       "parseImageList":".comic-contain amp-img",
       "parseImageUrl":"src",
 
-      "parseChapterList1":"div#chapter-items > div",
-      "parseChapterList2":"div#chapters_other_list > div",
-      "parseChapterList3":"div.comics-chapters",
+      "parseChapterList1":"div.pure-g:not([id]) > div.comics-chapters",
+      "parseChapterList2":"div#chapter-items > div",
+      "parseChapterList3":"div#chapters_other_list > div",
       "parseChapterPath":"a",
       "parseChapterTitle":"span",
       "parseCategoryPath":"/classify?type=%s&region=%s&state=%s&filter=%s"
