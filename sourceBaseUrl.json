@@ -525,7 +525,7 @@
     "JOYHENTAI":"",
 
     "BAOZIMH":{
-      "baseUrl":"https://cn.baozimh.com",
+      "baseUrl":"https://tw.baozimh.com",
       "search":"/search?q=%s",
 
       "searchInfoList":"div.pure-g.classify-items > div",
