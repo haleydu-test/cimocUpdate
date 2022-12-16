@@ -2,12 +2,12 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "UploadTime": "2022-12-16 16:05:41",
-  "ApkSize": 33783,
-  "VersionCode": 1408,
-  "VersionName": "1.7.86（1408）",
-  "ApkMd5": "b7cb7ecbe0db6d369cdeeb5df99edc0d",
-  "DownloadUrl": "https://api.leafone.cn/api/lanzou?url=https://haleydu.lanzouf.com/iAOIa0ithtze&pwd=1234&type=down",
-  "ModifyContent":"请尽快升级到1.7.85以上版本，其他未屏蔽快看版权漫画的软件版本将不再可用\r\n****************\r\n搜索引擎屏蔽快看资源。\r\n1.修复包子漫画其他地区可能存在解析失败的问题\r\n2.增加快速检测更新功能\r\n3.增加功能解析失败直接进入原网页\r\n4.修复自定义图源导入失败的问题\r\n5.修复大部分解析失败的漫画源\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
+  "UploadTime": "2022-12-16 18:05:41",
+  "ApkSize": 33787,
+  "VersionCode": 1409,
+  "VersionName": "1.7.86（1409）",
+  "ApkMd5": "1fa3439b2c95e699e96791d43e40d021",
+  "DownloadUrl": "https://api.leafone.cn/api/lanzou?url=https://haleydu.lanzouf.com/ib7bv0iu7ied&pwd=1234&type=down",
+  "ModifyContent":"请尽快升级到1.7.85以上版本，其他未屏蔽快看版权漫画的软件版本将不再可用\r\n****************\r\n搜索引擎屏蔽快看资源。\r\n1.修复包子漫画其他地区可能存在解析失败的问题\r\n2.增加快速检测更新功能\r\n3.增加功能解析失败直接进入原网页\r\n4.修复自定义图源导入失败的问题\r\n5.修复大部分解析失败的漫画源\r\n6.修复好漫6和好漫8图源搜索解析异常问题\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
 
 }
