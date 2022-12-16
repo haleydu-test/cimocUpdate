@@ -277,7 +277,7 @@
 
     "MH360":{
       "baseUrl":"https://m.100fanwo.com",
-      "serverUrl":"https://res99.shut123.com/",
+      "serverUrl":"https://res6.guagua456.com/",
       "search":"/search/?keywords=%s&page=",
 
       "searchInfoList":"div.UpdateList > div.itemBox",
