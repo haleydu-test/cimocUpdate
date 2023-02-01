@@ -4,10 +4,10 @@
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "UploadTime": "2023-02-02 02:55:41",
   "ApkSize": 33787,
-  "VersionCode": 1416,
-  "VersionName": "1.7.86（1416）",
-  "ApkMd5": "3edc44478461094a77f73012c19761f5",
-  "DownloadUrl": "http://tool.bitefu.net/lanzou/?url=https://haleydu.lanzouf.com/i5iFW0mechkb&pwd=1234&type=down",
+  "VersionCode": 1417,
+  "VersionName": "1.7.87（1417）",
+  "ApkMd5": "8fd468bb4cac999aa4d34d10a7036c4a",
+  "DownloadUrl": "http://tool.bitefu.net/lanzou/?url=https://haleydu.lanzouf.com/isQUt0mecyve&pwd=1234&type=down",
   "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n1.修复古风漫画\r\n2.修复更新检测频繁的问题\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
 
 }
