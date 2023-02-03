@@ -668,7 +668,7 @@
       "parseCategoryPath":"/manhua/category/%s_%s_%s_1/"
     },
      "BOLEFU":{
-      "baseUrl":"http://www.mxqf.com/",
+      "baseUrl":"http://www.mxqf.com",
       "search":"/search/?q=%s",
       "searchInfoList":"ul.newest_ul > li",
       "searchInfoCid":"a.newest_a",
