@@ -7,7 +7,7 @@
   "VersionCode": 1423,
   "VersionName": "1.7.88（1423）",
   "ApkMd5": "48da6d0d4251fe25371d29eecc77bde7",
-  "DownloadUrl": "http://tool.bitefu.net/lanzou/?url=https://haleydu.lanzouf.com/iVKZ80mpn4wh&pwd=1234&type=down",
+  "DownloadUrl": "https://api.hanximeng.com/lanzou/?url=https://haleydu.lanzouf.com/iVKZ80mpn4wh&pwd=1234&type=down",
   "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n1.修复古风漫画\r\n2.修复独漫画\r\n3.修复好漫6和8更新检测问题\r\n4.增加关闭严格搜索提示\r\n5.增加来漫画\r\n6.增加果果漫画\r\n7.增加酷漫屋\r\n8.增加有动漫\r\n9.浏览器内核取消tbs内核改用原生内核\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json\r\n\r\ntelegram群：https://t.me/cimoc_haleydu"
 
 }
