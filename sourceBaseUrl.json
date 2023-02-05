@@ -1,4 +1,17 @@
 {
+    "LAIMH": {
+      "baseUrl": "https://www.laimanhua.net",
+      "server": ["xwdf.kingwar.cn", "mhreswhm.kingwar.cn", "qwe123.kingwar.cn", "resmhpic.kingwar.cn", "reszxc.kingwar.cn"]
+    },
+    "GUOGUOMH": {
+      "baseUrl": "https://www.guoguomh.com"
+    },
+    "KUMANWU": {
+      "baseUrl": "http://www.kumw6.com"
+    },
+    "YOUDM": {
+      "baseUrl": "https://www.udm123.com"
+    },
     "SHOUJIMH":{
       "baseUrl":"http://www.gmanhua.com"
     },
