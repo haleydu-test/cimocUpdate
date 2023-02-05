@@ -1,0 +1,252 @@
+{
+    "sid": "406b1e29-d4c1-4e89-b602-6c64670de4d2",
+    "name": "免漫",
+    "logo": "https://i.loli.net/2020/05/22/V9kdmEXUjaZoqhQ.png",
+    "info": "优秀漫画软件免漫中提取的",
+    "baseUrl": "https://comicfree.cn",
+    "type": 1,
+    "grade": 1,
+    "needProxy": 0,
+    "encode": "utf-8",
+    "userAgent": "https://comicfree.cn/",
+    "imgMode": 2,
+    "engine": 21,
+    "author": {
+        "name": "静静",
+        "info": "(捐赠二维码就是免漫原作者的哦)",
+        "contact": "",
+        "donateLink": [
+            "https://i.loli.net/2020/05/22/YmJQLaVq98E6U4u.png",
+            "https://i.loli.net/2020/05/22/YtvRa2sINhFrQ8T.png"
+        ]
+    },
+    "prefs": [
+        {
+            "key": "账号",
+            "value": "",
+            "defaultValue": "输入你的账号"
+        },
+        {
+            "key": "密码",
+            "value": "",
+            "defaultValue": "输入你的密码"
+        }
+    ],
+    "login": {
+        "type": 2,
+        "link": "https://comicfree.cn/module/appUser/login",
+        "method": "POST",
+        "parse": "login_parse",
+        "buildParams": "login_build_params",
+        "buildHeaders": "login_build_headers"
+    },
+    "version": "1.2.1",
+    "script": {
+        "requires": [
+            {
+                "lib": "cheerio",
+                "url": ""
+            },
+            {
+                "lib": "md5",
+                "url": ""
+            }
+        ],
+        "code": "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"
+    },
+    "home": {
+        "title": "首页",
+        "url": "https://comicfree.cn/module/comic/new/@page/8",
+        "method": "GET",
+        "parse": "home_parse",
+        "startPage": 1,
+        "addPage": 1,
+        "imageMode": 1,
+        "requestType": 0
+    },
+    "tag": {
+        "title": "分类",
+        "method": "GET",
+        "parse": "tag_parse",
+        "startPage": 1,
+        "addPage": 1,
+        "buildHeaders": "details_build_headers",
+        "items": [
+            {
+                "group": "分类",
+                "title": "热血",
+                "url": "https://comicfree.cn/module/comic/theme/%E7%83%AD%E8%A1%80/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "冒险",
+                "url": "https://comicfree.cn/module/comic/theme/%E5%86%92%E9%99%A9/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "玄幻",
+                "url": "https://comicfree.cn/module/comic/theme/%E7%8E%84%E5%B9%BB/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "都市",
+                "url": "https://comicfree.cn/module/comic/theme/%E9%83%BD%E5%B8%82/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "恋爱",
+                "url": "https://comicfree.cn/module/comic/theme/%E6%81%8B%E7%88%B1/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "恐怖",
+                "url": "https://comicfree.cn/module/comic/theme/%E6%81%90%E6%80%96/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "蔷薇",
+                "url": "https://comicfree.cn/module/comic/theme/%E8%94%B7%E8%96%87/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "古风",
+                "url": "https://comicfree.cn/module/comic/theme/%E5%8F%A4%E9%A3%8E/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "校园",
+                "url": "https://comicfree.cn/module/comic/theme/%E6%A0%A1%E5%9B%AD/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "爆笑",
+                "url": "https://comicfree.cn/module/comic/theme/%E7%88%86%E7%AC%91/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "虐心",
+                "url": "https://comicfree.cn/module/comic/theme/%E8%99%90%E5%BF%83/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "推理",
+                "url": "https://comicfree.cn/module/comic/theme/%E6%8E%A8%E7%90%86/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "权谋",
+                "url": "https://comicfree.cn/module/comic/theme/%E6%9D%83%E8%B0%8B/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "宫斗",
+                "url": "https://comicfree.cn/module/comic/theme/%E5%AE%AB%E6%96%97/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "唯美",
+                "url": "https://comicfree.cn/module/comic/theme/%E5%94%AF%E7%BE%8E/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "纯爱",
+                "url": "https://comicfree.cn/module/comic/theme/%E7%BA%AF%E7%88%B1/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "穿越",
+                "url": "https://comicfree.cn/module/comic/theme/%E7%A9%BF%E8%B6%8A/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "科幻",
+                "url": "https://comicfree.cn/module/comic/theme/%E7%A7%91%E5%B9%BB/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "竞技",
+                "url": "https://comicfree.cn/module/comic/theme/%E7%AB%9E%E6%8A%80/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "其他",
+                "url": "https://comicfree.cn/module/comic/theme/%E5%85%B6%E4%BB%96/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "悬疑",
+                "url": "https://comicfree.cn/module/comic/theme/%E6%82%AC%E7%96%91/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "明星",
+                "url": "https://comicfree.cn/module/comic/theme/%E6%98%8E%E6%98%9F/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "格斗",
+                "url": "https://comicfree.cn/module/comic/theme/%E6%A0%BC%E6%96%97/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "脑洞",
+                "url": "https://comicfree.cn/module/comic/theme/%E8%84%91%E6%B4%9E/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "治愈",
+                "url": "https://comicfree.cn/module/comic/theme/%E6%B2%BB%E6%84%88/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "后宫",
+                "url": "https://comicfree.cn/module/comic/theme/%E5%90%8E%E5%AE%AB/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "萌系",
+                "url": "https://comicfree.cn/module/comic/theme/%E8%90%8C%E7%B3%BB/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "励志",
+                "url": "https://comicfree.cn/module/comic/theme/%E5%8A%B1%E5%BF%97/@page/20"
+            },
+            {
+                "group": "分类",
+                "title": "动作",
+                "url": "https://comicfree.cn/module/comic/theme/%E5%8A%A8%E4%BD%9C/@page/20"
+            }
+        ]
+    },
+    "search": {
+        "title": "搜索",
+        "url": "https://mini.ac.qq.com/wx/1.4/Search/smartTips?keyword=@key",
+        "method": "GET",
+        "parse": "search_parse",
+        "startPage": 1,
+        "addPage": 1
+    },
+    "book": {
+        "title": "详情",
+        "method": "POST",
+        "parse": "book_parse",
+        "buildHeaders": "details_build_headers",
+        "adds": [
+            {
+                "title": "sections",
+                "method": "GET",
+                "parse": "sections_parse",
+                "buildHeaders": "details_build_headers"
+            }
+        ]
+    },
+    "details": {
+        "title": "内容",
+        "method": "GET",
+        "parse": "details_parse",
+        "cacheAge": "1h",
+        "buildHeaders": "details_build_headers"
+    },
+    "openSource": false
+}
