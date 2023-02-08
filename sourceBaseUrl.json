@@ -1,4 +1,13 @@
 {
+    "XMANHUA": {
+		"baseUrl": "https://xmanhua.com"
+	},	
+	"VOMIC": {
+		"baseUrl": "http://www.iewoai.com"
+	},
+	"TUHAOMHV2": {
+		"baseUrl": "https://www.tuhmh.com"
+	},
     "LAIMH": {
       "baseUrl": "https://www.laimanhua.net",
       "server": ["xwdf.kingwar.cn", "mhreswhm.kingwar.cn", "qwe123.kingwar.cn", "resmhpic.kingwar.cn", "reszxc.kingwar.cn"]
