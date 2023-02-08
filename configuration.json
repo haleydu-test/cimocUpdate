@@ -7,7 +7,7 @@
     "configuration_ad_time":197000,
     "configuration_ad_time1":10,
     "configuration_ad_minutes_time":30,
-    "configuration_template_ad_time":10,
+    "configuration_template_ad_time":1,
     "configuration_insert_ad_minutes_time":45,
     "configuration_set_inter_ad":0.90, 
     "configuration_manually_insert_ad_minutes_time":10,
