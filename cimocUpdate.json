@@ -4,7 +4,7 @@
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "UploadTime": "2023-02-17 06:35:41",
   "ApkSize": 33748,
-  "VersionCode": 1433,
+  "VersionCode": 1439,
   "VersionName": "1.7.91（1439）",
   "ApkMd5": "3e28198e9be9bb18899a596ddb000666",
   "DownloadUrl": "https://api.hanximeng.com/lanzou/?url=https://haleydu.lanzouf.com/ihH740nta77c&pwd=1234&type=down",
