@@ -1,7 +1,11 @@
 {
+    "MKZHAN": {
+        "baseUrl": "https://comic.mkzhan.com",
+        "serverUrl": "https://comic.mkzcdn.com"
+    },
     "XMANHUA": {
-      "baseUrl": "https://xmanhua.com"
-    },	
+        "baseUrl": "https://xmanhua.com"
+    },
     "VOMIC": {
       "baseUrl": "http://www.iewoai.com"
     },
