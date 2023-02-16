@@ -2,12 +2,12 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "UploadTime": "2023-02-13 09:50:41",
+  "UploadTime": "2023-02-16 16:15:41",
   "ApkSize": 33744,
-  "VersionCode": 1433,
-  "VersionName": "1.7.90（1433）",
-  "ApkMd5": "d9a9e098fabb99ab9bf77f9198cef11e",
-  "DownloadUrl": "https://api.hanximeng.com/lanzou/?url=https://haleydu.lanzouf.com/i8b290nen2qj&pwd=1234&type=down",
-  "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源，请尽快升级，未屏蔽的旧版本将不再可以用。\r\n1.修复自定义漫画页面乱序的问题\r\n2.修复独漫画\r\n3.修复好漫6和8更新检测问题\r\n4.增加关闭严格搜索提示\r\n5.增加来漫画，果果漫画，酷漫屋，有动漫,\r\n6.浏览器内核取消tbs内核改用原生内核\r\n6.增加X漫画，土豪漫画2，Vomic漫画\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json\r\n\r\n"
+  "VersionCode": 1435,
+  "VersionName": "1.7.91（1435）",
+  "ApkMd5": "03286077ee8b9160d4ac314bbab7bd40",
+  "DownloadUrl": "https://api.hanximeng.com/lanzou/?url=https://haleydu.lanzouf.com/i1O5j0nr1kzc&pwd=1234&type=down",
+  "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源，请尽快升级，未屏蔽的旧版本将不再可以用。\r\n1.修复自定义漫画页面乱序的问题\r\n2.修复独漫画\r\n3.修复好漫6和8更新检测问题\r\n4.增加关闭严格搜索提示\r\n5.增加来漫画，果果漫画，酷漫屋，有动漫,\r\n6.浏览器内核取消tbs内核改用原生内核\r\n7.增加X漫画，土豪漫画2，Vomic漫画\r\n8.修复部分漫画章节较多时下载闪退的问题\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json\r\n\r\n"
 
 }
