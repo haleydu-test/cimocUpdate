@@ -427,7 +427,13 @@
 	"DMZJFIX":"https://m.dmzj.com",
     "DMZJFIXPICTURE":"https://images.dmzj.com/",
     "DMZJFIXSERVER":"http://api.dmzj.com",
-
+	"BASEURLHLV2": {
+		"baseUrl": "FFkwEQoIF7tfT6qh4RO2gvusVVlUH7KTCgg/WXFWuAc=",
+		"serverUrl": "wi5exBJN82KBCNTU4Kq7vapkncyM2vMaDCROPzGbGGc="
+	},
+	"BASEURLJMV2": {
+		"baseUrl": "CdXtgJ+YdHUif+vHMdaBeWxiyUavSTmZ5YM75xXeILI="
+	},
 	"DMZJV2":"https://m.dmzj.com",
     "DMZJV2PICTURE":"https://images.dmzj.com/",
     "DMZJV2SERVER":"http://v2.api.dmzj.com",
