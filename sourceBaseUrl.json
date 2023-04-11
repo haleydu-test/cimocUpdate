@@ -334,7 +334,7 @@
     },
 
     "QIXIMH":{
-      "baseUrl":"http://qiximh1.com",
+      "baseUrl":"http://qiximh2.com",
       "search":"/search.php",
       "searchKey":"keyword",
 
