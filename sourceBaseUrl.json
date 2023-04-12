@@ -1,13 +1,37 @@
 {
+	"MANHUAWU": {
+		"baseUrl": "https://www.mhua5.com",
+		"serverUrl": "",
+		"search": "/search/%s/%d",
+		"searchInfoList": "ul.comic-sort > li.item.comic-item",
+		"searchInfoCid": "a",
+		"searchInfoTitle": "p.title",
+		"searchInfoCover": "img",
+		"searchInfoAuthor": "",
+		"searchInfoUpdate": "span.chapter",
+		"parseInfoTitle": "h1.name",
+		"parseInfoCover": "div.comic-cover > img.thumb",
+		"parseInfoIntro": "p.comic-describe",
+		"parseInfoAuthor": "",
+		"parseInfoUpdate": "div.update-time",
+		"parseInfoStatus": "div.update-time",
+		"parseChapterList1": "ul.catalog-list > li > div > a",
+		"parseChapterList2": "",
+		"parseChapterPath": "",
+		"parseChapterTitle": "",
+		"parseImageList": "ul.comic-list li.comic-page img",
+		"parseImageUrl": "data-echo",
+		"parseCategoryPath": "/category/%s/page/%d"
+	},
     "BOLEMH":{
 	    "baseUrl":"https: //mybl.xyz"
     },
     "MKZHAN": {
-			"baseUrl": "https://comic.mkzhan.com",
-			"serverUrl": "https://comic.mkzcdn.com"
+		"baseUrl": "https://comic.mkzhan.com",
+		"serverUrl": "https://comic.mkzcdn.com"
     },
     "XMANHUA": {
-			"baseUrl": "https://xmanhua.com"
+		"baseUrl": "https://xmanhua.com"
     },
     "VOMIC": {
       "baseUrl": "http://www.iewoai.com"
