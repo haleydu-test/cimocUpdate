@@ -1,4 +1,11 @@
 {
+	"MH160CC": {
+		"baseUrl": "https://www.mh160.cc",
+		"serverUrl": ["mhpic5er.kingwar.cn", "mhpic789-5.kingwar.cn", "mhpic7fr.kingwar.cn", "mhpicwt.kingwar.cn", "mhpicwx.kingwar.cn", "mhpic5.kingwar.cn"],
+		"search": "/statics/searchelxt1e1.aspx?key=%s&page=%d",
+		"SERVER1": "https://mhpic5.kingwar.cn",
+		"SERVER2": "https://mhpic6.kingwar.cn"
+	},
 	"MANHUAWU": {
 		"baseUrl": "https://www.mhua5.com",
 		"serverUrl": "",
