@@ -85,7 +85,7 @@
 		"baseUrl": "http://www.gmanhua.com"
 	},
 	"YEMANMH": {
-		"baseUrl": "https://mhkami.com",
+		"baseUrl": "https://m.mhkami.com",
 		"serverUrl": "",
 		"search": "/search?searchkey=%s",
 		"searchInfoList": "#js_comicSortList > li",
