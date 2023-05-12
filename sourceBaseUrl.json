@@ -1,4 +1,26 @@
 {
+	"BODONGMH": {
+		"baseUrl": "https://ikmmh.com",
+		"serverUrl": "",
+		"search": "/search?searchkey=%s",
+		"searchInfoList": "#js_comicSortList > li",
+		"searchInfoCid": "a",
+		"searchInfoTitle": "p.title",
+		"searchInfoCover": "img",
+		"searchInfoAuthor": "",
+		"searchInfoUpdate": "span.chapter",
+		"parseInfoTitle": "div.book-hero__detail > div.title",
+		"parseInfoCover": "div.coverimg",
+		"parseInfoIntro": "article.book-container__detail",
+		"parseInfoAuthor": "div.book-container__author",
+		"parseInfoUpdate": "em#znum",
+		"parseInfoStatus": "div.episode-head > div.title",
+		"parseChapterList1": "#dataList > li a",
+		"parseChapterPath": "",
+		"parseChapterTitle": "",
+		"parseImageList": "#imgsec img.calwh",
+		"parseCategoryPath": ""
+	},
 	"MH160CC": {
 		"baseUrl": "https://www.mh160.cc",
 		"serverUrl": ["mhpic5er.kingwar.cn", "mhpic789-5.kingwar.cn", "mhpic7fr.kingwar.cn", "mhpicwt.kingwar.cn", "mhpicwx.kingwar.cn", "mhpic5.kingwar.cn"],
