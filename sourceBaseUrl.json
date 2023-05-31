@@ -1,4 +1,7 @@
 {
+	"SUMANKU": {
+		"baseUrl": "http://www.sumanku.com"
+	},
 	"GODAMH":{
 		"baseUrl":"https://cn.godamanga.art"
 	},
