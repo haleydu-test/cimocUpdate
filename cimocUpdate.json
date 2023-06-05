@@ -2,11 +2,11 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 2,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "UploadTime": "2023-05-31 13:35:41",
-  "ApkSize": 36137,
-  "VersionCode": 1493,
-  "VersionName": "1.7.104（1493）",
-  "ApkMd5": "9d10cfa828077f2a640e27bfc78c2c65",
-  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouf.com/iOyjZ0xt44fg&pwd=1234&type=down",
-  "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n修复安卓13通知权限无法打开的问题\r\n1.新增速漫库漫画源，移除Vomic漫画\r\n2.增加波洞boodong漫画，增加goda漫画，修复七夕漫画，米推漫画，好漫8，修复6漫画部分漫画不检测更新的问题，漫画160增加发现功能\r\n3.增加升级失败手动下载功能\r\n4.设置内增加清理章节缓存按钮，清理后可以提高每次在线解析的速度\r\n5.下载选择章节时，增加选择当前章节到结束章节的选项，增加取消全选的选\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json\r\n\r\n"
+  "UploadTime": "2023-06-05 13:35:41",
+  "ApkSize": 36149,
+  "VersionCode": 1500,
+  "VersionName": "1.7.105（1500）",
+  "ApkMd5": "2f2f52384e112cab2d71a9a6f86a28bc",
+  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouf.com/iYshA0ybt30d&pwd=1234&type=down",
+  "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n修复安卓13通知权限无法打开的问题。修复部分机型没有存储权限，无法备份无法下载的问题\r\n1.新增速漫库漫画源，移除Vomic漫画\r\n2.增加波洞boodong漫画，增加goda漫画，修复七夕漫画，米推漫画，好漫8，修复6漫画部分漫画不检测更新的问题，漫画160增加发现功能\r\n3.增加升级失败手动下载功能\r\n4.设置内增加清理章节缓存按钮，清理后可以提高每次在线解析的速度\r\n5.下载选择章节时，增加选择当前章节到结束章节的选项，增加取消全选的选\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json\r\n\r\n"
 }
