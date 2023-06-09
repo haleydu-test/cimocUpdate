@@ -499,7 +499,7 @@
 	"HHAAZZ_SW": "",
 	"JOYHENTAI": "",
 	"BAOZIMH": {
-		"baseUrl": "https://cn.baozimh.com",
+		"baseUrl": "https://cn.kukuc.co",
 		"search": "/search?q=%s",
 		"searchInfoList": "div.pure-g.classify-items > div",
 		"searchInfoCid": "a:eq(0)",
