@@ -1,4 +1,7 @@
-{
+{	
+	"BAOZIV2": {
+		"baseUrl": "https://baozimh.org"
+	},
 	"SUMANKU": {
 		"baseUrl": "http://www.sumanku.com"
 	},
