@@ -164,7 +164,7 @@
 		"parseChapterPath": "",
 		"parseChapterTitle": "",
 		"parseImageList": "ul.comic-list li.comic-page img",
-		"parseImageUrl": "data-echo",
+		"parseImageUrl": "image-loading",
 		"parseCategoryPath": "/category/%s/page/%d"
 	},
 	"HAOMAN6": {
