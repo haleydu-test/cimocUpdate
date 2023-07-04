@@ -77,6 +77,10 @@
 	"VOMIC": {
 		"baseUrl": ""
 	},
+	"VOMIC2": {
+		"baseUrl": "http://www.vomicmh.com",
+		"imageUrl": "/qiniu/vomic/otherImg/"
+	},
 	"TUHAOMHV2": {
 		"baseUrl": "https://www.tuhmh.com"
 	},
