@@ -2,11 +2,11 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 2,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "UploadTime": "2023-07-05 22:20:41",
+  "UploadTime": "2023-07-06 20:20:41",
   "ApkSize": 36133,
-  "VersionCode": 1522,
-  "VersionName": "1.7.112（1522）",
-  "ApkMd5": "77672da48f753cd3eb7ff5e26110d077",
-  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/iyEEk11elttg&pwd=1234&type=down",
-  "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n修复安卓13通知权限无法打开的问题。修复部分机型没有存储权限，无法备份无法下载的问题，修复6漫画章节无法解析成功的问题\r\n1.新增速漫库漫画源，新增G站包子漫画，移除Vomic漫画，优化包子漫画的图片加载速度\r\n2.增加波洞boodong漫画，增加goda漫画修复goda漫画章节加载速度，修复七夕漫画，米推漫画，好漫8，修复6漫画部分漫画不检测更新的问题，漫画160增加发现功能\r\n3.增加升级失败手动下载功能\r\n4.设置内增加清理章节缓存按钮，清理后可以提高每次在线解析的速度\r\n5.下载选择章节时，增加选择当前章节到结束章节的选项，增加取消全选的选\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json\r\n\r\n"
+  "VersionCode": 1518,
+  "VersionName": "1.7.113（1524）",
+  "ApkMd5": "43578115db52f2fde39453f080b6db78",
+  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/ieboh11i3ida&pwd=1234&type=down",
+  "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n修复安卓13通知权限无法打开的问题。修复部分机型没有存储权限，无法备份无法下载的问题\r\n1.再次优化包子漫画的图片加载速度项\r\n2.修复酷漫屋部分漫画不加载的问题\r\n3.优化部分源漫画信息加载不匹配的问题\r\n4.优化部分失效漫画源，增加漫画源替代\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json\r\n\r\n"
 }
