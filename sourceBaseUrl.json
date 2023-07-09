@@ -506,7 +506,7 @@
 	"HHAAZZ_SW": "",
 	"JOYHENTAI": "",
 	"BAOZIMH": {
-		"baseUrl": "https://cn.kukuc.co",
+		"baseUrl": "https://cn.baozimh.com",
 		"search": "/search?q=%s",
 		"DEFAULT_TOP_DOMIAN": ".baozicdn.com",
 		"CURRENT_TOP_DOMIAN": ".baozicdn.com",
