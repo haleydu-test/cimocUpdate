@@ -150,7 +150,7 @@
 	"HAOMAN8": {
 		"baseUrl": "https://www.haoman8.com",
 		"serverUrl": "",
-		"search": "/index.php/search?key=%s&page=%d",
+		"search": "/index.php/search?key=%s",
 		"searchInfoList": "ul.comic-sort > li.item.comic-item",
 		"searchInfoCid": "a",
 		"searchInfoTitle": "p.title",
