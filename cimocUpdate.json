@@ -2,11 +2,11 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 2,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "UploadTime": "2023-08-21 15:20:41",
-  "ApkSize": 34718,
-  "VersionCode": 1545,
-  "VersionName": "1.7.117（1545）",
-  "ApkMd5": "16c95568d51714c081ad249265c584b4",
-  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/iIojx15zjhzi&pwd=1234&type=down",
+  "UploadTime": "2023-08-31 22:20:41",
+  "ApkSize": 34670,
+  "VersionCode": 1549,
+  "VersionName": "1.7.118（1549）",
+  "ApkMd5": "d8974c51c6d3c93bb2e3d68fbea353cb",
+  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/iifr2171atuj&pwd=1234&type=down",
   "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源。\r\n修复安卓13通知权限无法打开的问题。修复部分机型没有存储权限，无法备份无法下载的问题\r\n1.再次优化包子漫画的图片加载速度项\r\n2.修复酷漫屋部分漫画不加载的问题，修复漫画160图片不加载问题，修复土豪漫画2，动漫之家\r\n3.修复部分源漫画信息加载不匹配的问题\r\n4.优化大部分失效漫画源\r\n5.更新依赖包，优化软件大小移除多余的软件库，优化软件的运行速度\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json\r\n\r\n"
 }
