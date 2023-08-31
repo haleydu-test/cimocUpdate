@@ -347,7 +347,7 @@
 		"parseCategoryPath": ""
 	},
 	"QIXIMH": {
-		"baseUrl": "http://qiximh2.com",
+		"baseUrl": "http://qiximh4.com",
 		"search": "/search.php",
 		"searchKey": "keyword",
 		"searchInfoList": "search_data",
