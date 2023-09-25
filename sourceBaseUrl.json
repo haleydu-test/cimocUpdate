@@ -73,7 +73,7 @@
 		"parseCategoryPath": "/category/%s/page/%d"
 	},
 	"BOLEMH": {
-		"baseUrl": "https://mybl.xyz"
+		"baseUrl": "https://boyboy.cfd"
 	},
 	"MKZHAN": {
 		"baseUrl": "https://comic.mkzhan.com",
@@ -93,7 +93,7 @@
 		"baseUrl": "https://www.toho123.com"
 	},
 	"LAIMH": {
-		"baseUrl": "https://www.laimanhua.net",
+		"baseUrl": "https://www.laimanhua8.com",
 		"server": ["xwdf.kingwar.cn", "mhreswhm.kingwar.cn", "qwe123.kingwar.cn", "resmhpic.kingwar.cn", "reszxc.kingwar.cn"]
 	},
 	"GUOGUOMH": {
