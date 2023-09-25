@@ -4,7 +4,7 @@
   "UpdateStatus": 2,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "UploadTime": "2023-09-26 16:20:41",
   "ApkSize": 34658,
-  "VersionCode": 1554,
+  "VersionCode": 1557,
   "VersionName": "1.7.201（1557）",
   "ApkMd5": "076a218527a653f8e7320627dbecbbdf",
   "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/i0zsm19ve8pe&pwd=1234&type=down",
