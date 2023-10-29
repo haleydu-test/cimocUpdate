@@ -19,6 +19,7 @@
 	"GoDaMH":{
 		"baseUrl":"https://cn.godamanga.art"
 	},
+	"WNACG":{"updateUrl":"https://stevenyomi.github.io/source-domains/wnacg.txt"},
 	"BODONGMH": {
 		"baseUrl": "https://ikmmh.com",
 		"serverUrl": "",
