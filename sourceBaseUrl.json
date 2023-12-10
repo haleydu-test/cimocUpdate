@@ -1,11 +1,11 @@
 {	
 	"MANHUA36": {
 		"baseUrl": "",
-		"search": "https://soumh.leeyegy.com",
-		"imageUrl": "https://contentmanhua.pysmei.com",
-		"categoryUrl": "http://scmanhua.pysmei.com",
-		"hostOne": "bcebos.com",
-		"hostTwo": "mhrsrc.com"
+		"search": "",
+		"imageUrl": "",
+		"categoryUrl": "",
+		"hostOne": "",
+		"hostTwo": ""
 	},
 	"BAOZIV2": {
 		"baseUrl": "https://baozimh.org"
