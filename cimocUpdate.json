@@ -2,11 +2,11 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 2,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "UploadTime": "2023-11-16 16:20:41",
+  "UploadTime": "2023-12-10 16:20:41",
   "ApkSize": 34808,
-  "VersionCode": 1565,
-  "VersionName": "1.7.204（1565）",
-  "ApkMd5": "196f8c09f1d085b1357a84d0cd454617",
-  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/idTz81f131yb&pwd=1234&type=down",
+  "VersionCode": 1569,
+  "VersionName": "1.7.206（1569）",
+  "ApkMd5": "36ef742d2b178e018b639d297804d20f",
+  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/iwXBj1hey97i&pwd=1234&type=down",
   "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源，搜索引擎屏蔽部分搜索关键词。\r\n修复安卓13通知权限无法打开的问题。修复部分机型没有存储权限，无法备份无法下载的问题，修复部分机型发烫闪退的问题\r\n1.再次优化包子漫画的图片加载速度项\r\n2.修复酷漫屋部分漫画不加载的问题，修复漫画160图片不加载问题，修复土豪漫画2，动漫之家，来漫画，啵乐\r\n3.修复部分源漫画信息加载不匹配的问题\r\n4.优化大部分失效漫画源\r\n5.更新依赖包，优化软件大小移除多余的软件库，优化软件的运行速度\r\n6.修复删除自定义漫画源后软件闪退的问题\r\n****************\r\n\r\n无法升级的可以关注《Cimoc》微信公众号获取蓝奏云下载链接\r\n公众号微信号ID：HDCIMOC\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json\r\n\r\n"
 }
