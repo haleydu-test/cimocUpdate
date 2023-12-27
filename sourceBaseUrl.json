@@ -519,7 +519,7 @@
 		"search": "/search?q=%s",
 		"DEFAULT_TOP_DOMIAN": ".baozicdn.com",
 		"CURRENT_TOP_DOMIAN": ".baozicdn.com",
-		"REQ_DOMAINS": "[['-smb1-usla.baozicdn.com',1500,30],['-dpa1-cnhk.baozicdn.com',1000,15],['-fdca1-jptky.baozicdn.com',1500,30],['.baozicdn.com',2000,20],['.baozimh.com',2000,20]]",
+		"REQ_DOMAINS": "[['-rsa1-usla.baozicdn.com',1500,30],['-dpa1-cnhk.baozicdn.com',1000,15],['-ogsm1-uspho.baozicdn.com',1500,30],['-mha1-nlams.baozicdn.com',1500,30],['.baozicdn.com',2000,20],['.baozimh.com',2000,20]]",
 		"searchInfoList": "div.pure-g.classify-items > div",
 		"searchInfoCid": "a:eq(0)",
 		"searchInfoTitle": "a:eq(0)",
