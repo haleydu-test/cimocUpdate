@@ -8,13 +8,13 @@
 		"hostTwo": ""
 	},
 	"BAOZIV2": {
-		"baseUrl": "https://m.baozimh.one"
+		"baseUrl": "https://m.baozimh.one","serverUrl":"https://api-get.mgsearcher.com"
 	},
 	"SUMANKU": {
 		"baseUrl": "http://www.sumanku.com"
 	},
 	"GODAMH":{
-		"baseUrl":"https://godamh.com"
+		"baseUrl":"https://godamh.com","serverUrl":"https://api-get.mgsearcher.com"
 	},
 	"GoDaMH":{
 		"baseUrl":"https://cn.godamanga.art"
