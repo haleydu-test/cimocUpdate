@@ -379,7 +379,7 @@
 		"parseCategoryInfoUpdate": "div.comic_cover_desc"
 	},
 	"BMG": {
-		"baseUrl": "http://129.204.202.152",
+		"baseUrl": "https://www.liumanhua.com",
 		"search": "/SearchBook.aspx?keyword=%s&t=1",
 		"searchInfoList": "div.newlistbox > ul:eq(1) > li",
 		"searchInfoCid": "span.sm > a",
