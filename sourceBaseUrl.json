@@ -521,7 +521,7 @@
 	"HHAAZZ_SW": "",
 	"JOYHENTAI": "",
 	"BAOZIMH": {
-		"baseUrl": "https://cn.czmanga.com",
+		"baseUrl": "https://cn.baozimhcn.com",
 		"search": "/search?q=%s",
 		"DEFAULT_TOP_DOMIAN": ".baozicdn.com",
 		"CURRENT_TOP_DOMIAN": ".baozicdn.com",
