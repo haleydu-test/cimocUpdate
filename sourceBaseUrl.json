@@ -713,7 +713,8 @@
 		"parseImageList1": "div#messagetext > p",
 		"parseImageList2": "div.uk-alert > p",
 		"parseCategoryPath": "/classify?type=%s&region=%s&state=%s&filter=%s"
-	},"BaoziManHua": {
+	},
+	"BaoziManHua": {
 		"baseUrl": "https://cn.baozimhcn.com",
 		"search": "/search?q=",
 		"searchInfoList": "div.pure-g.classify-items > div",
@@ -743,7 +744,7 @@
 		"search": "/search?keyword="
 	},
 	"BaiManGu": {
-		"baseUrl": "http://129.204.202.152",
+		"baseUrl": "https://cn.zhuzhumh.com",
 		"search": "/SearchBook.aspx?keyword="
 	},
 	"ManHuaCat": {
@@ -785,10 +786,16 @@
 		"serverUrl": ""
 	},
 	"HaoManSix": {
-		"baseUrl": "https://www.haoman6.cc"
+		"baseUrl": "https://m.baozimh.one",
+		"imgServerUrl1": "https://f40-1-4.g-mh.online",
+		"imgServerUrl2": "https://t40-1-4.g-mh.online",
+		"serverUrl":"https://api-get-v2.mgsearcher.com"
 	},
 	"HaoManEight": {
-		"baseUrl": "https://www.haoman8.com"
+		"baseUrl": "https://godamh.com",
+		"imgServerUrl1": "https://f40-1-4.g-mh.online",
+		"imgServerUrl2": "https://t40-1-4.g-mh.online",
+		"serverUrl":"https://api-get-v2.mgsearcher.com"
 	},
 	"CopyManHua": {
 		"baseUrl": "https://www.mangacopy.com",
