@@ -512,7 +512,7 @@
 	"U17_SO": "http://so.u17.com",
 	"WEBTOON": "https://m.webtoons.com",
 	"WEBTOONDONGMANMANHUA": "https://www.dongmanmanhua.cn",
-	"YKMH": "http://h5.ykmh.com/",
+	"YKMH": "http://m.ykmh.net/",
 	"YKMH_SERVER": "http://js.tingliu.cc",
 	"YYLS": "",
 	"KUAIKANMANHUA": "",
@@ -742,6 +742,20 @@
 	"YiManHua": {
 		"baseUrl": "https://m.yimmh.com",
 		"search": "/search?keyword="
+	},
+	"MangaBZManHua": {
+		"baseUrl": "http://www.mangabz.com"
+	},	
+	"YouKuManHua": {
+		"baseUrl": "http://m.ykmh.net",
+		"serverUrl": "http://js.tingliu.cc"
+	},	
+	"XinXinManHua": {
+		"baseUrl": "https://so.77mh.nl",
+		"serverUrl": "https://css.gdbyhtl.net:5443"
+	},	
+	"ShouJiManHua": {
+		"baseUrl": "http://www.gmanhua.com"
 	},
 	"BaiManGu": {
 		"baseUrl": "https://cn.zhuzhumh.com",
