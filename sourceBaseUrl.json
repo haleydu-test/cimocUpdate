@@ -512,7 +512,7 @@
 	"U17_SO": "http://so.u17.com",
 	"WEBTOON": "https://m.webtoons.com",
 	"WEBTOONDONGMANMANHUA": "https://www.dongmanmanhua.cn",
-	"YKMH": "http://m.ykmh.net/",
+	"YKMH": "https://m.ykmh.net/",
 	"YKMH_SERVER": "http://js.tingliu.cc",
 	"YYLS": "",
 	"KUAIKANMANHUA": "",
@@ -747,7 +747,7 @@
 		"baseUrl": "http://www.mangabz.com"
 	},	
 	"YouKuManHua": {
-		"baseUrl": "http://m.ykmh.net",
+		"baseUrl": "https://m.ykmh.net",
 		"serverUrl": "http://js.tingliu.cc"
 	},	
 	"XinXinManHua": {
