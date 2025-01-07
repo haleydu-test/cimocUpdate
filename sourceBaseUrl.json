@@ -49,7 +49,7 @@
 		"parseCategoryPath": ""
 	},
 	"MH160CC": {
-		"baseUrl": "https://www.mh160.cc",
+		"baseUrl": "https://www.mh160mh.com",
 		"serverUrl": ["mhpic5er.kingwar.cn", "mhpic789-5.kingwar.cn", "mhpic7fr.kingwar.cn", "mhpicwt.kingwar.cn", "mhpicwx.kingwar.cn"],
 		"search": "/statics/searchelxt1e1.aspx?key=%s&page=%d",
 		"SERVER1": "https://mhpic5.kingwar.cn",
@@ -491,7 +491,7 @@
 	},
 	"MH57": "http://m.wuqimh.net/",
 	"MH57SERVER": "http://imagesold.502215.com",
-	"MH160": "https://www.mh160.cc",
+	"MH160": "https://www.mh160mh.com",
 	"MH160SERVER1": "https://mhpic5.kingwar.cn",
 	"MH160SERVER2": "https://mhpic6.kingwar.cn",
 	"MH160SERVER3": "https://mhpic5.kingwar.cn",
