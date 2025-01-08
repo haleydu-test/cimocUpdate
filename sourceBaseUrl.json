@@ -635,7 +635,7 @@
 		"parseCategoryPath": "/booklist?tag=%s&area=%s&end=%s"
 	},
 	"IQIYI": {
-		"baseUrl": "https://www.iqiyi.com",
+		"baseUrl": "https://bud.iqiyi.com",
 		"search": "/manhua/search-keyword=%s",
 		"searchInfoList": "ul.stacksList > li > div",
 		"searchInfoCid": "div.stacksBookCover > a",
@@ -660,7 +660,7 @@
 		"parseCategoryInfoCover": "a.cartoon-cover > img",
 		"parseCategoryInfoAuthor": "",
 		"parseCategoryInfoUpdate": "",
-		"parseCategoryPath": "/manhua/category/%s_%s_%s_1/"
+		"parseCategoryPath": "/manhua/category/%s_%s_-1_%s_1/"
 	},
 	"BOLEFU": {
 		"baseUrl": "http://www.mxqf.com",
