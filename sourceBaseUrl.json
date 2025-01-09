@@ -7,6 +7,10 @@
 		"hostOne": "",
 		"hostTwo": ""
 	},
+	"KOMIIC": {
+		"baseUrl": "https://komiic.com",
+		"serverUrl": ""
+	},
 	"BAOZIV2": {
 		"baseUrl": "https://m.baozimh.one",		
 		"imgServerUrl1": "https://f40-1-4.g-mh.online",
