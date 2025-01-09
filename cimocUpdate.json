@@ -4,9 +4,9 @@
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "UploadTime": "2024-01-07 06:26:41",
   "ApkSize": 34808,
-  "VersionCode": 1652,
-  "VersionName": "1.7.228（1652）",
-  "ApkMd5": "63842559c59b4ce748e765dbf8397c07",
-  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/inuw42ka4f1i&pwd=1234&type=down",
+  "VersionCode": 1659,
+  "VersionName": "1.7.229（1659）",
+  "ApkMd5": "04cde7e6137dc7639dc15cf333f1419f",
+  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/iIkQ42khaodc&pwd=1234&type=down",
   "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源，搜索引擎屏蔽部分搜索关键词。\r\n1.修复酷漫屋部分漫画不加载的问题，修复漫画160图片不加载问题，修复土豪漫画2，动漫之家，oh漫画（colamanga漫画）、来漫画，goda漫画，包子漫画G站，拷贝漫画，6漫画,添加猪猪漫画源\r\n2.修复部分机型使用过久发烫的问题\r\n3.更新依赖包，优化软件大小移除多余的软件库，优化软件的运行速度\r\n****************\r\n\r\n无法升级的可以关注TG频道获取蓝奏云下载链接\r\nTG频道：https://t.me/cimoc_haleydu_channel\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json\r\n\r\n"
 }
