@@ -6,6 +6,10 @@
 		"categoryUrl": "",
 		"hostOne": "",
 		"hostTwo": ""
+	},	
+	"MANHUA90": {
+		"baseUrl": "https://www.90mh.org",
+		"serverUrl": ""
 	},
 	"KOMIIC": {
 		"baseUrl": "https://komiic.com",
