@@ -7,6 +7,27 @@
 		"hostOne": "",
 		"hostTwo": ""
 	},	
+	"DASHUMANHUA": {
+		"baseUrl": "https://www.dashumanhua.com",
+		"serverUrl": ""
+	},
+	"YOUMANHUAWU": {
+		"baseUrl": "https://umh5.com",
+		"serverUrl": ""
+	},
+	"BIQUGE": {
+		"baseUrl": "https://bq888.net",
+		"serverUrl": ""
+	},
+	"MANMANMANHUA": {
+		"baseUrl": "https://www.manmanapp.com",
+		"serverUrl": ""
+	},
+	"KUMANXIONG": {
+		"baseUrl": "https://ct-api.tumanapp.com",
+		"serverUrl": "https://cdn-statics.tumanapp.com",
+		"imgServerUrl": "https://cdn-image.tumanapp.com"
+	},
 	"MANHUA90": {
 		"baseUrl": "https://www.90mh.org",
 		"serverUrl": "http://js.tingliu.cc"
