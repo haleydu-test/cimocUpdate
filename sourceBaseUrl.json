@@ -24,9 +24,9 @@
 		"serverUrl": ""
 	},
 	"KUMANXIONG": {
-		"baseUrl": "https://ct-api.tumanapp.com",
-		"serverUrl": "https://cdn-statics.tumanapp.com",
-		"imgServerUrl": "https://cdn-image.tumanapp.com"
+		"baseUrl": "",
+		"serverUrl": "",
+		"imgServerUrl": ""
 	},
 	"MANHUA90": {
 		"baseUrl": "https://www.90mh.org",
