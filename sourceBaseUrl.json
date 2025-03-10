@@ -848,6 +848,7 @@
 	},
 	"CopyManHua": {
 		"baseUrl": "https://www.mangacopy.com",
+		"serverCode": "/api/kb/web/searchbd/comics",
 		"serverUrl": "https://www.mangacopy.com"
 	},
     "backup_update":"https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json",
