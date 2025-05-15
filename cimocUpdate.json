@@ -2,11 +2,11 @@
   "Code": 0, //0代表请求成功，非0代表失败
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "UploadTime": "2024-05-16 08:26:41",
+  "UploadTime": "2024-05-16 06:26:41",
   "ApkSize": 52363,
   "VersionCode": 1719,
-  "VersionName": "1.7.239（1719）",
-  "ApkMd5": "67cfa12e3e3d9d96c653e16d1a10988a",
-  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/izDrX2wcq39a&pwd=1234&type=down",
+  "VersionName": "1.7.239（1720）",
+  "ApkMd5": "9d501716c799ac84a1926efc67313ff1",
+  "DownloadUrl": "https://miuscapp.com/lanzou/?url=https://haleydu.lanzouj.com/ifXTB2wcq6xc&pwd=1234&type=down",
   "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源，搜索引擎屏蔽部分搜索关键词。\r\n1.修复部分解析失败的图源\r\n2.添加笔趣阁漫画，大树漫画，酷漫熊，90漫画，komicc，有漫画屋等漫画源\r\n3.更新依赖包，优化软件大小移除多余的软件库，优化软件的运行速度，提高新章节解析加载速度\r\n****************\r\n\r\n无法升级的可以关注TG频道获取蓝奏云下载链接\r\nTG频道：https://t.me/cimoc_haleydu_channel\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json\r\n\r\n"
 }
