@@ -456,8 +456,8 @@
 	"CHUIXUE": "http://www.chuixue.net",
 	"CHUIXUESERVER": "https://chuixue2.xiluweb.com/",
 	"CHUIYAO": "http://m.chuiyao.com",
-	"COPYMH": "https://www.mangacopy.com",
-	"COPYMHSERVER": "https://www.mangacopy.com/api/kb/web/searchbd/comics",
+	"COPYMH": "https://www.copy20.com",
+	"COPYMHSERVER": "https://www.copy20.com/api/kb/web/searchc/comics",
 	"DM5": "https://m.dm5.com",
 	"DMZJ": "http://m.dmzj.com",
 	"DMZJSEARCH": "http://s.acg.dmzj.com",
@@ -847,9 +847,9 @@
 		"serverUrl":"https://api-get-v2.mgsearcher.com"
 	},
 	"CopyManHua": {
-		"baseUrl": "https://www.mangacopy.com",
-		"serverCode": "/api/kb/web/searchbd/comics",
-		"serverUrl": "https://www.mangacopy.com"
+		"baseUrl": "https://www.copy20.com",
+		"serverCode": "/api/kb/web/searchc/comics",
+		"serverUrl": "https://www.copy20.com"
 	},
     "backup_update":"https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json",
     "update_backup_my":"http://www.cimoc.top/cimoc/sourc/master/raw/sourceBaseUrl.json"
