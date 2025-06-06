@@ -457,7 +457,7 @@
 	"CHUIXUESERVER": "https://chuixue2.xiluweb.com/",
 	"CHUIYAO": "http://m.chuiyao.com",
 	"COPYMH": "https://www.copy20.com",
-	"COPYMHSERVER": "https://www.copy20.com/api/kb/web/searchc/comics",
+	"COPYMHSERVER": "https://www.copy20.com/api/kb/web/searchs/comics",
 	"DM5": "https://m.dm5.com",
 	"DMZJ": "http://m.dmzj.com",
 	"DMZJSEARCH": "http://s.acg.dmzj.com",
@@ -848,7 +848,7 @@
 	},
 	"CopyManHua": {
 		"baseUrl": "https://www.copy20.com",
-		"serverCode": "/api/kb/web/searchc/comics",
+		"serverCode": "/api/kb/web/searchs/comics",
 		"serverUrl": "https://www.copy20.com"
 	},
     "backup_update":"https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json",
