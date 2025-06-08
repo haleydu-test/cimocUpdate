@@ -493,8 +493,8 @@
 	"MANGAKAKALOT": "",
 	"MANGANEL": "",
 	"MANHUADB": "https://www.manhuadb.com",
-	"MANHUATAI": "https://m.manhuatai.com/",
-	"MANHUATAIPIC": "https://www.kanman.com",
+	"MANHUATAI": "https://www.kanman.com",
+	"MANHUATAIPIC": "https://m.kanman.com",
 	"MH50": {
 		"baseUrl": "https://www.maofly.com",
 		"search": "/search.html?q=%s",
