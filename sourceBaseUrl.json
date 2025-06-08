@@ -815,8 +815,8 @@
 		"search": "/search/?q="
 	},
 	"ManHuaTai": {
-		"baseUrl": "https://m.manhuatai.com",
-		"serverUrl": "https://www.kanman.com"
+		"baseUrl": "https://www.kanman.com",
+		"serverUrl": "https://m.kanman.com"
 	},
 	"DuManHua": {
 		"baseUrl": "https://m.7stary.com",
