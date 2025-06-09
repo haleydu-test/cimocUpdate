@@ -850,6 +850,7 @@
 		"baseUrl": "https://www.copy20.com",
 		"serverUrl": "https://www.copy20.com",
 		"serverUrl2": "https://mapi.copy20.com",
+		"serverUrl3": "https://api.copy2000.online",
 		"serverCode": "/api/kb/web/searcha/comics",
 		"serverCode2": "/api/v3/search/comic",
 		"serverCodeversion": "2025.05.09"
