@@ -485,7 +485,7 @@
 	"CHUIXUESERVER": "https://chuixue2.xiluweb.com/",
 	"CHUIYAO": "http://m.chuiyao.com",
 	"COPYMH": "https://www.copy20.com",
-	"COPYMHSERVER": "https://www.copy20.com/api/kb/web/searchb/comics",
+	"COPYMHSERVER": "https://www.copy20.com/api/kb/web/searchbc/comics",
 	"DM5": "https://m.dm5.com",
 	"DMZJ": "http://m.dmzj.com",
 	"DMZJSEARCH": "http://s.acg.dmzj.com",
@@ -879,7 +879,7 @@
 		"serverUrl": "https://www.copy20.com",
 		"serverUrl2": "https://mapi.copy20.com",
 		"serverUrl3": "https://api.copy2000.online",
-		"serverCode": "/api/kb/web/searchb/comics",
+		"serverCode": "/api/kb/web/searchbc/comics",
 		"serverCode2": "/api/v3/search/comic",
 		"serverCodeversion": "2025.05.09"
 	},
