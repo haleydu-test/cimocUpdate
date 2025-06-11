@@ -1,4 +1,32 @@
 {	
+	"MYCOMIC": {
+		"baseUrl": "https://mycomic.com"
+	},
+	"DUMANWU": {
+		"baseUrl": "http://dumanwu1.com"
+	},
+	"DUMANWUORG": {
+		"baseUrl": "https://www.dumanwu.org"
+	},
+	"QIMANHUA": {
+		"baseUrl": "https://www.qimanwu.org"
+	},
+	"TTKANMANHUA": {
+		"baseUrl": "https://www.ttkmh.com",
+		"serverUrl": "https://img1.baipiaoguai.org"
+	},
+	"YYMANHUA": {
+		"baseUrl": "https://www.yymanhua.com"
+	},
+	"MANHUAYU": {
+		"baseUrl": "https://www.manhuayu8.com"
+	},
+	"RUMANHUA": {
+		"baseUrl": "http://rumanhua1.com"
+	},
+	"HAODUOMAN": {
+		"baseUrl": "https://www.haoduoman.com"
+	},
 	"MANHUA36": {
 		"baseUrl": "",
 		"search": "",
