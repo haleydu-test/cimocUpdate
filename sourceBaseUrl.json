@@ -80,7 +80,7 @@
 		"baseUrl": "http://www.sumanku.com"
 	},
 	"GODAMH":{
-		"baseUrl":"https://godamh.com",		
+		"baseUrl":"https://m.g-mh.org",		
 		"imgServerUrl1": "https://f40-1-4.g-mh.online",
 		"imgServerUrl2": "https://t40-1-4.g-mh.online",
 		"serverUrl":"https://api-get-v2.mgsearcher.com"
