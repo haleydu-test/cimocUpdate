@@ -55,7 +55,7 @@
 		"serverUrl": ""
 	},
 	"KUMANXIONGV2": {
-		"baseUrl": "https://ct-api.tumanapp.com",
+		"baseUrl": "https://newapi.tumanapp.com",
 		"key": "&v=1.0.4&i=102&ed=2c09ed4476586b273597af1879539ee71740607340910&p=5",
 		"serverUrl": "https://cdn-statics.tumanapp.com",
 		"imgServerUrl": "https://cdn-image.tumanapp.com"
