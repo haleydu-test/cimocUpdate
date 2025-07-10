@@ -1,4 +1,7 @@
 {	
+	"BILIMANHUA": {
+		"baseUrl": "https://www.bilimanga.net"
+	},
 	"MYCOMIC": {
 		"baseUrl": "https://mycomic.com"
 	},
