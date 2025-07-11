@@ -1,4 +1,7 @@
 {	
+	"GUILUOLIMANHUA": {
+		"baseUrl": "http://m.ymgjmh.com"
+	},
 	"BILIMANHUA": {
 		"baseUrl": "https://www.bilimanga.net"
 	},
