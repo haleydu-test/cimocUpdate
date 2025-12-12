@@ -4,9 +4,9 @@
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "UploadTime": "2025-12-13 03:10:41",
   "ApkSize": 45510,
-  "VersionCode": 1818,
-  "VersionName": "1.7.266（1818）",
-  "ApkMd5": "c2d05152fe2d11a49c15d9c64df4aa35",
-  "DownloadUrl": "https://miuscapp.com/lanzou/index.php?url=https://haleydu.lanzoub.com/iBBIy3dhpeoh&pwd=1234&type=down",
+  "VersionCode": 1819,
+  "VersionName": "1.7.267（1819）",
+  "ApkMd5": "0481f49e78c7fa7089c070f0437ac743",
+  "DownloadUrl": "https://miuscapp.com/lanzou/index.php?url=https://haleydu.lanzoub.com/iNYyz3dhpmde&pwd=1234&type=down",
   "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源，搜索引擎屏蔽部分搜索关键词。\r\n1.修复部分解析失败的图源\r\n2.更新依赖包，修复对各类安卓模拟器的支持\r\n****************\r\n\r\n无法升级的可以关注TG频道获取蓝奏云下载链接\r\nTG频道：https://t.me/cimoc_haleydu_channel\r\n\r\n\r\n该版本不支持安卓5.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json\r\n\r\n"
 }
