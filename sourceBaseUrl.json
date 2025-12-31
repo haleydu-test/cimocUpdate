@@ -890,6 +890,7 @@
 		"serverUrl": "https://www.copy20.com",
 		"serverUrl2": "https://mapi.copy2000.site",
 		"serverUrl3": "https://api.copy2000.online",
+		"serverUrl4": "https://marketing.aiacgn.com/api/v2/adopr/query3/?format=json&ident=200100001",
 		"serverCode": "/api/kb/web/searchbg/comics",
 		"serverCode2": "/api/v3/search/comic",
 		"serverCodeversion": "2025.08.08"
