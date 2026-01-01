@@ -893,7 +893,7 @@
 		"serverUrl4": "https://marketing.aiacgn.com/api/v2/adopr/query3/?format=json&ident=200100001",
 		"serverCode": "/api/kb/web/searchbg/comics",
 		"serverCode2": "/api/v3/search/comic",
-		"serverCodeversion": "2025.08.08"
+		"serverCodeversion": "2025.11.21"
 	},
     "backup_update":"https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json",
     "update_backup_my":"http://www.cimoc.top/cimoc/sourc/master/raw/sourceBaseUrl.json"
