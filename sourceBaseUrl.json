@@ -232,8 +232,9 @@
 		"parseCategoryPath": ""
 	},
 	"HAOMAN8": {
-		"baseUrl": "https://www.manhua88888.com",
-		"serverUrl": "",
+		"baseUrl": "https://m.zaimanhua.com",
+		"serverUrl": "https://v4api.zaimanhua.com",
+		"pictureUrl": "https://manhua.zaimanhua.com",
 		"search": "/index.php/search?key=%s",
 		"searchInfoList": "ul.comic-sort > li.item.comic-item",
 		"searchInfoCid": "a",
