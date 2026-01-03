@@ -256,7 +256,7 @@
 		"parseCategoryPath": "/category/%s/page/%d"
 	},
 	"HAOMAN6": {
-		"baseUrl": "https://www.haoman6.cc",
+		"baseUrl": "https://www.manben.com",
 		"serverUrl": "",
 		"search": "/index.php/search?key=%s&%d",
 		"searchInfoList": "div.search-result > div.comic-list-item",
