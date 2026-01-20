@@ -3,10 +3,10 @@
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1,//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "UploadTime": "2025-01-20 18:30:41",
-  "ApkSize": 46044,
-  "VersionCode": 1838,
-  "VersionName": "1.7.272（1838）",
-  "ApkMd5": "eebcb5d94dbb2e2bea5286a19997276a",
-  "DownloadUrl": "https://www.haleytesla.top/lanzou/?url=https://haleydu.lanzoub.com/iBc5N3gmbura&pwd=1234&type=down",
+  "ApkSize": 46318,
+  "VersionCode": 1840,
+  "VersionName": "1.7.272（1840）",
+  "ApkMd5": "88ef8c72e171e5b82cae98b87eb427f2",
+  "DownloadUrl": "https://www.haleytesla.top/lanzou/?url=https://haleydu.lanzoub.com/iBzoU3gmdwfc&pwd=1234&type=down",
   "ModifyContent":"****************\r\n搜索引擎屏蔽快看资源，搜索引擎屏蔽部分搜索关键词。\r\n1.修复部分解析失败的图源\r\n2.更新依赖包，修复对各类安卓模拟器的支持\r\n****************\r\n\r\n无法升级的可以关注TG频道获取蓝奏云下载链接\r\nTG频道：https://t.me/cimoc_haleydu_channel\r\n\r\n\r\n该版本不支持安卓7.0以下的手机。\r\n\r\n\r\n新版本图源地址：\r\nhttps://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json\r\n\r\n"
 }
