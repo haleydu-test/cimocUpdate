@@ -59,7 +59,7 @@
 	},
 	"KUMANXIONGV2": {
 		"baseUrl": "http://www.ziyuanxue.cn/Cimoc/hmx/api/queryHmxComic",
-		"key": "&v=2.0.1&i=19&ed=2c09ed4476586b273597af1879539ee71740607340910&p=18",
+		"key": "&v=1.0.0&i=20&ed=1c783e3871c84c1b57e2ef0532a7487f1740606874843&p=8",
 		"serverUrl": "http://static.yangpujiu.top",
 		"imgServerUrl": "http://img.yangpujiu.top"
 	},
