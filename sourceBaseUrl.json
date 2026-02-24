@@ -595,7 +595,7 @@
 		"baseUrl": "https://cn.baozimhcn.com",
 		"search": "/search?q=%s",
 		"appUrl": "https://appcn.baozimh.com",
-		"appImgUrl": "https://appcn-vdkr.baozimhapp.com",
+		"appImgUrl": "https://appcn1-vdkr.baozimhapp.com",
 		"DEFAULT_TOP_DOMIAN": ".baozicdn.com",
 		"CURRENT_TOP_DOMIAN": ".baozicdn.com",
 		"REQ_DOMAINS": "[['-rsa1-usla.baozicdn.com',1500,30],['-dpa1-cnhk.baozicdn.com',1000,15],['-ogsm1-uspho.baozicdn.com',1500,30],['-mha1-nlams.baozicdn.com',1500,30],['.baozicdn.com',2000,20],['.baozimh.com',2000,20]]",
