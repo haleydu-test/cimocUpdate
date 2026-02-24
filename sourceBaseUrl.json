@@ -790,7 +790,7 @@
 	"BaoziManHua": {
 		"baseUrl": "https://cn.baozimhcn.com",
 		"appUrl": "https://appcn.baozimh.com",
-		"appImgUrl": "https://appcn-vdkr.baozimhapp.com",
+		"appImgUrl": "https://appcn1-vdkr.baozimhapp.com",
 		"search": "/search?q=",
 		"searchInfoList": "div.pure-g.classify-items > div",
 		"searchInfoCid": "a:eq(0)",
