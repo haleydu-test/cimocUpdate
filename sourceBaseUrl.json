@@ -887,8 +887,8 @@
 		"serverUrl":"https://api-get-v2.mgsearcher.com"
 	},
 	"CopyManHua": {
-		"baseUrl": "https://www.copy20.com",
-		"serverUrl": "https://www.copy20.com",
+		"baseUrl": "https://www.mangacopy.com",
+		"serverUrl": "https://www.mangacopy.com",
 		"serverUrl2": "https://mapi.copy2000.site",
 		"serverUrl3": "https://api.copy2000.online",
 		"serverUrl4": "https://marketing.aiacgn.com/api/v2/adopr/query3/?format=json&ident=200100001",
