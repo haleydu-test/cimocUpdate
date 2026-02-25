@@ -70,7 +70,7 @@
 	},
 	"MANHUA90": {
 		"baseUrl": "https://www.90mh.org",
-		"serverUrl": "http://js.tingliu.cc"
+		"serverUrl": "http://js100.haotu90.top"
 	},
 	"KOMIIC": {
 		"baseUrl": "https://komiic.com",
@@ -584,7 +584,7 @@
 	"WEBTOON": "https://m.webtoons.com",
 	"WEBTOONDONGMANMANHUA": "https://www.dongmanmanhua.cn",
 	"YKMH": "https://m.ykmh.net/",
-	"YKMH_SERVER": "http://js.tingliu.cc",
+	"YKMH_SERVER": "http://js.haotuyk.top",
 	"YYLS": "",
 	"KUAIKANMANHUA": "",
 	"KUAIKANMANHUASERVER": "https://api.kkmh.com",
@@ -823,7 +823,7 @@
 	},	
 	"YouKuManHua": {
 		"baseUrl": "https://m.ykmh.net",
-		"serverUrl": "http://js.tingliu.cc"
+		"serverUrl": "http://js.haotuyk.top"
 	},	
 	"XinXinManHua": {
 		"baseUrl": "https://so.77mh.nl",
